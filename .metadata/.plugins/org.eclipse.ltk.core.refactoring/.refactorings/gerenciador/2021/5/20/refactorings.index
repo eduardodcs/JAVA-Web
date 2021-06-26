@@ -1,0 +1,10 @@
+1620534517176	Move 'novaEmpresaCriada.html' to 'webapp'
+1620534605163	Rename resource 'novaEmpresaCriada.html'
+1620540380221	Rename method 'getEmpresa'
+1620540386540	Rename method 'getEmpresaS'
+1620541626724	Delete element
+1620541860412	Delete element
+1620542088662	Delete element
+1620577739205	Rename resource 'formNovaEmpresa.html'
+1620578493485	Encapsulate field 'dataAbertura'
+1620589132524	Copy file

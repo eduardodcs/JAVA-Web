@@ -1,0 +1,10 @@
+127.0.0.1 - - [13/Jun/2021:15:18:38 -0300] "GET / HTTP/1.1" 404 763
+0:0:0:0:0:0:0:1 - - [13/Jun/2021:15:18:39 -0300] "GET /gerenciador HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [13/Jun/2021:15:18:39 -0300] "GET /gerenciador/ HTTP/1.1" 200 52
+0:0:0:0:0:0:0:1 - - [13/Jun/2021:15:19:37 -0300] "GET /gerenciador/listaEmpresas HTTP/1.1" 200 636
+0:0:0:0:0:0:0:1 - - [13/Jun/2021:15:36:27 -0300] "GET /oi HTTP/1.1" 404 765
+0:0:0:0:0:0:0:1 - - [13/Jun/2021:15:36:38 -0300] "GET /gerenciador/oi HTTP/1.1" 200 64
+0:0:0:0:0:0:0:1 - - [13/Jun/2021:16:00:12 -0300] "GET /gerenciador/formNovaEmpresa.html HTTP/1.1" 404 799
+0:0:0:0:0:0:0:1 - - [13/Jun/2021:16:00:31 -0300] "GET /gerenciador/formNovaEmpresa.jsp HTTP/1.1" 200 409
+0:0:0:0:0:0:0:1 - - [13/Jun/2021:16:01:49 -0300] "POST /gerenciador/novaEmpresa HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [13/Jun/2021:16:01:49 -0300] "GET /gerenciador/listaEmpresas HTTP/1.1" 200 851
